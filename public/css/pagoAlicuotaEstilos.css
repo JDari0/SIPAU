@@ -1,0 +1,27 @@
+.container {
+    padding: 0;
+    margin: 0;
+}
+
+#bloqueBuscar {
+    text-align: center;
+}
+
+
+#registrar {
+    position: relative;
+    margin-left: 78%;
+}
+
+#idModal, #idResidente, #idGroup{
+    display:none;
+} 
+
+table{
+    margin-left: 0%;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}

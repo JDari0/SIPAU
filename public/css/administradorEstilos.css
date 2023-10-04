@@ -1,0 +1,23 @@
+.container {
+    padding: 0;
+    margin: 0;
+}
+
+#bloqueBuscar {
+    text-align: center;
+}
+
+
+#registrar {
+    position: relative;
+    margin-left: 81%;
+}
+
+table{
+    margin-left: 0%;
+    text-align: center;
+}
+
+th{
+    text-align: center;
+}
